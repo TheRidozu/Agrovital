@@ -1,0 +1,14 @@
+/*** DDGS-SPECIFICATION ***/
+
+.ddgs-specification {
+  background-color: var(--primary);
+  color: var(--secondary);
+}
+
+.ddgs-specification__h2 {
+  margin-bottom: 25px;
+}
+
+.ddgs-specification__list {
+  margin: 25px 0;
+}
